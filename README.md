@@ -503,7 +503,7 @@ The Team used Slack team channel Canvas to ensure everyone stayed updated on pro
 ![image](assets/images/readme/lighthouse.png)
 
 ### Mobile
-![image](assets/images/readme/mobile.png)
+![image](assets/images/readme/mobile-lighthouse.png)
 ## HTML
 
 ### index.html
