@@ -213,7 +213,7 @@ While voice commands are the primary way to interact, you can also use the inter
 - Weather Not Displayed: Make sure location access is granted, and you have an active internet connection.
 - Speech Recognition Stops Unexpectedly: Say "start listening" to restart voice recognition.
 ## 5. Privacy and Data Storage
-Your notes and preferences are stored locally in your browser's localStorage.
+Your notes and preferences are stored locally in your browser's local storage.
 Location and microphone data are used only for their respective features and are not shared.
 With Help Buddy, you can easily access useful features through simple voice commands. Enjoy your hands-free assistant experience!
 
@@ -260,7 +260,7 @@ With Help Buddy, you can easily access useful features through simple voice comm
 - Our talented team is the heart and soul of Access Granted. Each member brings a unique set of skills and expertise, contributing to the success of our project in their own special way.
 
 ## 🌟 Vernell Clark — SCRUM Lead
-- Vernell ensures our team remains on track and focused. As our SCRUM Lead, he coordinate team efforts, facilitate meetings, and help resolve any obstacles. Vernell expertise in agile methodologies has been key to our project's timely and organized progress.
+- Vernell ensures our team remains on track and focused. As our SCRUM Lead, he coordinates team efforts, facilitates meetings, and helps resolve any obstacles. Vernell expertise in agile methodologies has been key to our project's timely and organized progress.
 
 ### Role: Project Management & Coordination
 - GitHub: [VCGithubCode](https://github.com/VCGithubCode)
@@ -380,17 +380,17 @@ The development of our project is guided by a structured yet adaptable approach,
 At the beginning of each sprint, our team conducts Sprint Planning to set the course for the upcoming work. This process includes:
 
 - Prioritizing the Product Backlog: We ensure the most important tasks are addressed first, focusing on features and improvements that bring the most value to users.
-- Setting Sprint Goals: Clear goals are established, aligned with project milestones, to provide direction and ensure we stay on track.
+- Setting Sprint Goals: Clear goals are established, and aligned with project milestones, to provide direction and ensure we stay on track.
 - Assigning Tasks: Tasks are distributed based on each team member’s expertise and workload to promote efficiency and collaboration.
-Throughout the sprint, we carefully manage trade-offs between scope, quality, time, and resources. Our aim is to deliver high-quality work while meeting deadlines and user needs. By adopting Agile methodologies, we remain adaptable, focused, and committed to continuous improvement.
+Throughout the sprint, we carefully manage trade-offs between scope, quality, time, and resources. We aim to deliver high-quality work while meeting deadlines and user needs. By adopting Agile methodologies, we remain adaptable, focused, and committed to continuous improvement.
 
 ## Task Prioritization Using MOSCOW
 Tasks are organized using the MOSCOW method, which helps us prioritize and manage our work effectively:
 
-- Must Have: Essential features or tasks that are critical for the success of the project and must be completed in the current sprint.
+- Must-Have: Essential features or tasks that are critical for the success of the project and must be completed in the current sprint.
 Should Have: Important tasks that are not essential but should be completed if possible, as they will improve the user experience or functionality.
-- Could Have: Tasks that are nice to have but are not critical. These may be included if there is time available after the must-have and should-have tasks are completed.
-- Won’t Have: Tasks that are not a priority for the current sprint and will be deferred or removed from the current scope.
+- Could Have Tasks that are nice to have but are not critical. These may be included if there is time available after the must-have and should-have tasks are completed.
+- Won’t Have Tasks that are not a priority for the current sprint and will be deferred or removed from the current scope.
 This prioritization technique allows us to focus on the most important tasks first, ensuring that we are always addressing the highest-value work.
 
 ## Team Meetings Summary
@@ -439,11 +439,11 @@ By using the Kanban board, we ensure that tasks are organized and transparent, m
 ## MVP Focus and Collaboration
 In the early stages, the team worked towards creating a Minimum Viable Product (MVP). As the team adjusted to working together, we found our balance, rhythm, and flow state. Over time, we transitioned from working individually to collaborating more closely, solving problems together, and helping each other complete tasks effectively.
 
-### Please do not ge a Heart attack after you see this!
+### Please do not get a Heart attack after you see this!
 
 ![image](assets/images/readme/oops.png)
 
-### Yes it's almost didn't happened night before dubbmition!
+### Yes it almost didn't happen the night before the submission!
 
 
 
@@ -452,9 +452,9 @@ In the early stages, the team worked towards creating a Minimum Viable Product (
 
  ### Collaboration Tools
  
-The team used [Slack](https://slack.com/) for quick collaboration purposes and Github projects to track User Stories, Bugs and Time plan.
+The team used [Slack](https://slack.com/) for quick collaboration purposes and Github projects to track User Stories, Bugs, and Time plans.
 
-The Team used slack team channel Canvas to ensure everyone stayed updated on project progress and discussions. [canvas](https://code-institute-room.slack.com/canvas/C080JB3ETHU)
+The Team used Slack team channel Canvas to ensure everyone stayed updated on project progress and discussions. [canvas](https://code-institute-room.slack.com/canvas/C080JB3ETHU)
 
 
 *<span style="color: blue;">[Back to Content](#content)</span>*
@@ -479,7 +479,7 @@ The Team used slack team channel Canvas to ensure everyone stayed updated on pro
 |[HTML](https://en.wikipedia.org/wiki/HTML)|Across website|used for the main site content.
 |[CSS](https://en.wikipedia.org/wiki/CSS)|Across website|used for the main site design and layout.
 |[JavaScript](https://www.javascript.com)|Across website|used for user interaction on the site.
-| [YouTube](https://www.youtube.com/)                                                                                  | Across website  | Tutorial for troubleshouting |
+| [YouTube](https://www.youtube.com/)                                                                                  | Across website  | Tutorial for troubleshooting |
 | [Font Awesome](https://fontawesome.com/)                                                                             | Across website | Inspiration for icons        |
 | [Fonts Google](https://fonts.google.com/)                                                                            | Across website | Font selection               |
 | [Coolors](https://coolors.co/)                                                                                       | Across website | Colour palette selection     |
@@ -487,8 +487,8 @@ The Team used slack team channel Canvas to ensure everyone stayed updated on pro
 | [Lucid.App](https://lucid.app/documents#/documents?folder_id=home)                                                   | Across website | Wireframes creation          |
 | [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)                                         | Across website | used as the front-end CSS framework for modern responsiveness and pre-built components.   |
 | [Email.js](https://www.emailjs.com/)                                                                                 | Across website | For replying to users contact|
-| [tiny.png](https://tinypng.com/)                                                                                     | Across website | For image convertion         |
-| [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)                                         | Across website | Responcivness                |
+| [tiny.png](https://tinypng.com/)                                                                                     | Across website | For image conversion         |
+| [Bootstrap](https://getbootstrap.com/docs/4.3/getting-started/introduction/)                                         | Across website | Responsiveness                |
 | [ChatGPT](https://chat.openai.com)                                         | Across website | Used to help debug, troubleshoot, and explain things.                |
 |[DeepAI](https://deepai.org/)|Across website|Website for creation Avatars
 |[cloudconvert](https://cloudconvert.com/)||To convert jpg pictures
@@ -573,7 +573,7 @@ Advanced Voice Commands: Implement more specific voice commands for easier navig
 
 ## Prerequisites and Deployment
 
-- The site was developed in VS Code/Gitpod, stored in GitHub as the local repository. Github Pages was used to deploy the live website. The instructions to ac- hieve this are below.
+- The site was developed in VS Code/Gitpod, and stored in GitHub as the local repository. GitHub Pages was used to deploy the live website. The instructions to achieve this are below.
 
 1. Log in to GitHub and locate the [GitHub Repository](https://github.com/)
 2. At the top of the Repository (not the top of the page), locate the "Settings" Button on the menu.
@@ -625,7 +625,7 @@ or
 $ yarn add @emailjs/browser
 ```
   4. In your EmailJS dashboard, navigate to the "API Keys" section and copy your API key.
-  5. Add this code snippet before your closing tags. Making sure you have added your public key.
+  5. Add this code snippet before your closing tags. Make sure you have added your public key.
 
 ```js
 <script type="text/javascript"
@@ -641,7 +641,7 @@ $ yarn add @emailjs/browser
 ```
 
   6.  Create an email template in your EmailJS dashboard. This template will define the content and structure of the emails you'll send.
-  7. Write JavaScript function to send email using EmailJS. Below is a basic syntax for the code: 
+  7. Write a JavaScript function to send email using EmailJS. Below is a basic syntax for the code: 
 
 ```
 emailjs.send(serviceID, templateID, templateParams, options);
